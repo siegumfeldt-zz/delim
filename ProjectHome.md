@@ -1,0 +1,1 @@
+`delim` is a python library for parsing delimited text files, especially files with formatting problems (e.g. unclosed quotes, unquoted delimiters).
